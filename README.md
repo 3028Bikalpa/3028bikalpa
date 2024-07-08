@@ -18,9 +18,6 @@ Hi there! 👋 I'm Bikalpa, a passionate data science student at Duke Kunshan Un
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=3028bikalpa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=3028bikalpa&icon=0&color=0)](https://visitcount.itsvg.in)
 
